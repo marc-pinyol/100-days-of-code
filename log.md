@@ -1,13 +1,26 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 0: December 10, 2019
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Setup RoR dev enviroment with docker. Started RoR tutorial
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** I'm in love with Docker, just a few lines and a clean, reproduible dev enviroment is up.
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Link to work:** 
+1. [RoR docker setup](https://www.freecodecamp.org/news/painless-rails-development-environment-setup-with-docker/)
+2. [RoR tutorial](https://www.freecodecamp.org/news/lets-create-an-intermediate-level-ruby-on-rails-application-d7c6e997c63f/)
+
+**Usefull commands:**
+***Docker***
+docker-compose build
+docker-compose run --rm --service-ports ruby_dev
+***RoR init***
+rails new myapp && cd myapp
+bundle update && bundle install
+***RoR start web server***
+rails server -p $PORT -b 0.0.0.0
+***Docker clean up***
+docker-compose down
 
 ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
