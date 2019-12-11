@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 0: December 10, 2019
+### Day 1: December 10, 2019
 
 **Today's Progress**: Setup RoR dev enviroment with docker. Started RoR tutorial
 
@@ -8,7 +8,8 @@
 
 **Link to work:** 
 1. [RoR docker setup](https://www.freecodecamp.org/news/painless-rails-development-environment-setup-with-docker/)
-2. [RoR tutorial](https://www.freecodecamp.org/news/lets-create-an-intermediate-level-ruby-on-rails-application-d7c6e997c63f/)
+2. [RoR and Postgres docker setup](https://medium.com/better-programming/setting-up-rails-with-postgres-using-docker-426c853e8590)
+3. [RoR tutorial](https://www.freecodecamp.org/news/lets-create-an-intermediate-level-ruby-on-rails-application-d7c6e997c63f/)
 
 **Usefull commands:**
 ***Docker***
