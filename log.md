@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 1: December 10, 2019
+## Day 1: December 10, 2019
 
 **Today's Progress**: Setup RoR dev enviroment with docker. Started RoR tutorial
 
@@ -8,20 +8,28 @@
 
 **Link to work:** 
 1. [RoR docker setup](https://www.freecodecamp.org/news/painless-rails-development-environment-setup-with-docker/)
-2. [RoR and Postgres docker setup](https://medium.com/better-programming/setting-up-rails-with-postgres-using-docker-426c853e8590)
-3. [RoR tutorial](https://www.freecodecamp.org/news/lets-create-an-intermediate-level-ruby-on-rails-application-d7c6e997c63f/)
+1. [RoR and Postgres docker setup](https://medium.com/better-programming/setting-up-rails-with-postgres-using-docker-426c853e8590)
+1. [RoR tutorial](https://www.freecodecamp.org/news/lets-create-an-intermediate-level-ruby-on-rails-application-d7c6e997c63f/)
 
-**Usefull commands:**
-***Docker***
+### Usefull commands:
+**Docker**
+```
 docker-compose build
 docker-compose run --rm --service-ports ruby_dev
-***RoR init***
+```
+**RoR init**
+```
 rails new myapp && cd myapp
 bundle update && bundle install
-***RoR start web server***
+```
+**RoR start web server**
+```
 rails server -p $PORT -b 0.0.0.0
-***Docker clean up***
+```
+**Docker clean up**
+```
 docker-compose down
+```
 
 ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
