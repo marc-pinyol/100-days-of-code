@@ -9,7 +9,7 @@
 **Link to work:** 
 1. [RoR docker setup](https://www.freecodecamp.org/news/painless-rails-development-environment-setup-with-docker/)
 1. [RoR and Postgres docker setup](https://medium.com/better-programming/setting-up-rails-with-postgres-using-docker-426c853e8590)
-1. [RoR tutorial](https://www.freecodecamp.org/news/lets-create-an-intermediate-level-ruby-on-rails-application-d7c6e997c63f/)
+1. [RoR tutorial](https://www.freecodecamp.org/news/lets-create-an-intermediate-level-ruby-on-rails-application-d7c6e997c63f/) **Come back here some day**
 
 ### Usefull commands:
 **Docker**
@@ -31,22 +31,21 @@ rails server -p $PORT -b 0.0.0.0
 docker-compose down
 ```
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+### Day 2: December 11, 2019
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: 
+1. Fixed issues and creat repos on github.
+1. Discovered/rediscovered _The Odin project_ online training web. Enrolled on _Full Stack Ruby on Rails track_.
+   1. Started _Ruby programming_ > _Basic Ruby_ section
+      1. Going on _Ruby building blocks_
+      1. Done the full [Codecademy Introduction to Ruby](https://www.codecademy.com/courses/learn-ruby/lessons/introduction-to-ruby/) section from their [Ruby Track](https://www.codecademy.com/catalog/language/ruby).
+      1. Done until lesson 5 of [Regexone](https://regexone.com/lesson/repeating_characters?)
+   1. Cherry picking on _Web development 101_ (32% completed)
+      1. Created silly ruby on rails car application
+      1. Git overview [Git cheat sheet](https://education.github.com/git-cheat-sheet-education.pdf)
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts**: 
+* It won't be easy to find 1 hour each day to finish this challenge.
+* Interesting discover of [Heroku](https://www.heroku.com/). Usefull for quick deployments. [More info](https://www.theodinproject.com/courses/web-development-101/lessons/your-first-rails-application?ref=lnav#step-2-initialize-git-and-push-to-github) 
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
-
-
-### Day 1: June 27, Monday
-
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
-
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+**Link(s) to work**: [The Odin Project](https://www.theodinproject.com/)
