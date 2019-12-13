@@ -31,7 +31,7 @@ rails server -p $PORT -b 0.0.0.0
 docker-compose down
 ```
 
-### Day 2: December 11, 2019
+## Day 2: December 11, 2019
 
 **Today's Progress**: 
 1. Fixed issues and creat repos on github.
@@ -41,11 +41,27 @@ docker-compose down
       1. Done the full [Codecademy Introduction to Ruby](https://www.codecademy.com/courses/learn-ruby/lessons/introduction-to-ruby/) section from their [Ruby Track](https://www.codecademy.com/catalog/language/ruby).
       1. Done until lesson 5 of [Regexone](https://regexone.com/lesson/repeating_characters?)
    1. Cherry picking on _Web development 101_ (32% completed)
-      1. Created silly ruby on rails car application
-      1. Git overview [Git cheat sheet](https://education.github.com/git-cheat-sheet-education.pdf)
+      1. Created silly ruby on rails car application.
+      1. Git overview.
 
 **Thoughts**: 
 * It won't be easy to find 1 hour each day to finish this challenge.
-* Interesting discover of [Heroku](https://www.heroku.com/). Usefull for quick deployments. [More info](https://www.theodinproject.com/courses/web-development-101/lessons/your-first-rails-application?ref=lnav#step-2-initialize-git-and-push-to-github) 
+* Interesting discover of [Heroku](https://www.heroku.com/). Usefull for quick deployments. [More info](https://www.theodinproject.com/courses/web-development-101/lessons/your-first-rails-application?ref=lnav#step-2-initialize-git-and-push-to-github)
+* [Git cheat sheet](https://education.github.com/git-cheat-sheet-education.pdf)
 
-**Link(s) to work**: [The Odin Project](https://www.theodinproject.com/)
+**Link(s) to work**:
+* [The Odin Project](https://www.theodinproject.com/)
+
+## Day 3: December 12, 2019
+
+**Today's Progress**: 
+1. Following with _Web development 101_ of _The Odin project_ (37% completed)
+   1. Done problems 1 to 3 of project euler.
+   1. Going on with section _The Back End_ pending to finish exercise of fixing unit test (done 0..1, pending 2..6)
+
+**Thoughts**:
+* Feeling that today I wasted my time with euler problems... but feeling at same time that I need to check documentation for each command :( so... maybe I need to waste time to get confidence.
+* More confortable checking and fixing unit tests. Seems that Ruby is really focused to use TDD.
+* [Ruby cheat sheet (and others)] (http://overapi.com/ruby)
+
+**Link(s) to work**:
