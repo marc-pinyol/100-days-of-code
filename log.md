@@ -1,5 +1,18 @@
 # 100 Days Of Code - Log
 
+## Day 4: December 13, 2019
+
+**Today's Progress**: 
+1. Following with _Web development 101_ of _The Odin project_ (37% completed)
+   1. Going on with section _The Back End_ pending to finish exercise of fixing unit test (done 2, pending 3..6)
+
+**Thoughts**:
+1. Work on night gives me more time and focus... but at the end I go to sleep a little bit late...
+1. I'm enjoying learning Ruby.
+
+**Link(s) to work**:
+* [Commit exercise #2](https://github.com/marc-pinyol/learn_ruby/commit/d406e60a8d207c29e407b70687ab91e5d92ffffb)
+
 ## Day 3: December 12, 2019
 
 **Today's Progress**: 
