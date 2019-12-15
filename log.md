@@ -1,5 +1,19 @@
 # 100 Days Of Code - Log
 
+## Day 5: December 15, 2019
+
+**Today's Progress**:
+Yesterday was not possible to do my hour of coding :( I hope that this will not happen again soon. 
+1. Following with _Web development 101_ of _The Odin project_ (37% completed)
+   1. Going on with section _The Back End_ pending to finish exercise of fixing unit test (done 3 and 4, pending 5..6)
+
+**Thoughts**:
+1. Lost seveal time with an isue with docker and with a silly error on my code.
+
+**Link(s) to work**:
+* [Commit exercise #3 and #4](https://github.com/marc-pinyol/learn_ruby/commit/770af0f51f2430c50eb0281c91a1c5e041385564)
+
+
 ## Day 4: December 13, 2019
 
 **Today's Progress**: 
