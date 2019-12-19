@@ -1,5 +1,38 @@
 # 100 Days Of Code - Log
 
+## Day 8: December 19, 2019
+
+**Today's Progress**:
+1. Already doing exercices of a job interview.
+
+**Thoughts**:
+1. I subscribe that it is very lazy to do exercises like this. I'm feeling that they are cheating me with silly things. 
+
+**Link(s) to work**:
+
+## Day 7: December 17, 2019
+
+**Today's Progress**:
+1. Doing exercices of a job interview.
+
+**Thoughts**:
+1. It is very lazy to do exercises like this. 
+
+**Link(s) to work**:
+
+
+## Day 6: December 16, 2019
+
+**Today's Progress**:
+1. Following with _Web development 101_ of _The Odin project_ (40% completed)
+   1. Finished section _The Back End_. Finished exercise of fixing unit test (done 5 and 6)
+
+**Thoughts**:
+
+**Link(s) to work**:
+* [Commit exercise #5 and #6](https://github.com/marc-pinyol/learn_ruby/commit/4b873ad790cdd433fc1fcb5728fb05fdb91a532e)
+
+
 ## Day 5: December 15, 2019
 
 **Today's Progress**:
@@ -8,7 +41,7 @@ Yesterday was not possible to do my hour of coding :( I hope that this will not 
    1. Going on with section _The Back End_ pending to finish exercise of fixing unit test (done 3 and 4, pending 5..6)
 
 **Thoughts**:
-1. Lost seveal time with an isue with docker and with a silly error on my code.
+1. Lost several time with an isue with docker and with a silly error on my code.
 
 **Link(s) to work**:
 * [Commit exercise #3 and #4](https://github.com/marc-pinyol/learn_ruby/commit/770af0f51f2430c50eb0281c91a1c5e041385564)
