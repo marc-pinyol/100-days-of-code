@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+## Day 9: December 20, 2019
+
+**Today's Progress**:
+1. Already doing exercices of a job interview.
+
+**Thoughts**:
+1. First time using Oracle :S
+
+**Link(s) to work**:
+
 ## Day 8: December 19, 2019
 
 **Today's Progress**:
